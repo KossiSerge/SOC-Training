@@ -7,6 +7,6 @@
 - Utilise SIEM tools to handle incidents
 - Investigate forensic artefacts
 
-### Certificated: 
+### Certificate: 
 
 ![image alt](https://github.com/KossiSerge/SOC-Training/blob/main/Certificate.png?raw=true)
