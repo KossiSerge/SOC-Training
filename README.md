@@ -8,4 +8,5 @@
 - Investigate forensic artefacts
 
 ### Certificated: 
-- In Progress...
+
+![image alt](https://github.com/KossiSerge/SOC-Training/blob/main/Certificate.png?raw=true)
